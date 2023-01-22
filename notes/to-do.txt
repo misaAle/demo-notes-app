@@ -1,0 +1,7 @@
+Notes-
+1. delete old attachment when uploading a new one.
+2. delete attachment when deleting note.
+
+Users-
+1. allow users to change their email or password
+2. add 'forgot password' functionality
